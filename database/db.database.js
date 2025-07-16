@@ -3,7 +3,6 @@ import mongoose from 'mongoose';
 
 
 
-const app = express();
 
 const connect_to_DB =async () => {
     
@@ -19,4 +18,4 @@ const connect_to_DB =async () => {
 }
 
 
-export {connect_to_DB}
+export default connect_to_DB

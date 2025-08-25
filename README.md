@@ -1,6 +1,8 @@
 # Payment Gateway Backend
 
 A miniature version of payment gateway systems used globally, built with Node.js, Express, and MongoDB. This backend provides core functionalities for merchants, customers, and order management, suitable for integration with payment platforms.
+A simplified payment gateway backend that allows merchants (like Flipkart) to integrate, create orders, and process payments securely using Razorpay APIs.
+This project demonstrates how modern gateways (Razorpay, Stripe, PayPal) work under the hood.
 
 ## Features
 
